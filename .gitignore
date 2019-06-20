@@ -2,3 +2,4 @@
 node_modules/
 /tests/compiled/
 mix-manifest.json
+dist/
